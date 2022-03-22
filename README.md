@@ -29,6 +29,7 @@ let milanMody = {
 
 
 <br />
+<br/>
   
  ## :computer: Projects
   <strong>Everyone's A Critic</strong> [Video](https://youtu.be/GtdXcHHpitU) · [Repo](https://github.com/milanmody20/react-movie-app-frontend)
