@@ -42,3 +42,14 @@ let milanMody = {
   <strong>Been There Pin That</strong> [Video](https://youtu.be/LcZQjl4w_FA) · [Repo](https://github.com/milanmody20/BeenThereDoneThat)
   <br />
   :📍: A web app for travelers! Allows users to drop virtual "pins" to their prior travel destinations. Ruby on Rails.
+
+<br/>
+Find Out More About Me:
+
+<a href="https://www.linkedin.com/in/milanmody">
+  <img align="left" alt="Milan Mody | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="https://medium.com/@milanmody20">
+ <img align="left" alt="Milan Mody | Medium Blog" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/medium-3855923-3201557.png" />
+</a>
+  
