@@ -36,7 +36,7 @@ let milanMody = {
   <br />
   :🎬: An QSLite Dababase which allows users to tract their favorite movies of all time. Able to "favorite", "comment/review" and "rate" the good and the bad. React/Redux/Thunk/Rails
   
-  <strong>Run Tracker</strong> [Video](https://youtu.be/nXp5uN4iIRc) · [Repo](https://github.com/milanmody20/run_app_frontend.git)
+  <strong>Run Tracker</strong> [Video](https://youtu.be/SfIGim2iW5k) · [Repo](https://github.com/milanmody20/run_app_frontend.git)
   <br />
   :👟: A single page application which allows users to tract their daily/weekly runs. JS/Rails.
   
