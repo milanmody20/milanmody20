@@ -1,23 +1,9 @@
 ### Hello There, I'm Milan 👋
   
 ```javascript
-let lucianaSugeta = {
+let milanMody = {
   role: "Software Engineer",
-  background: "Digital Marketing and Neuromarketing",
-  languagesSpoken: ["en_US", "pt_BR"],
-  skills: ["fast learner", "curious", "teamwork", "detail-oriented", "problem-solving"],
-  funFact: "I'm Japanese but I was born in Brazil so technically, Brazilian"
-}
-
-
-// Here are some ideas to get you started:
-
-// - 🔭 I’m currently working on ...
-// - 🌱 I’m currently learning ...
-// - 👯 I’m looking to collaborate on ...
-// - 🤔 I’m looking for help with ...
-// - 💬 Ask me about ...
-// - 📫 How to reach me: ...
-// - 😄 Pronouns: ...
-// - ⚡ Fun fact: ...
-
+  background: "Physician Assistant, Recent graduate from Flatiron Full-Stack Software Engineering School",
+  languagesSpoken: ["en_US"],
+  skills: ["photography", "design", "marketing", "team-oriented", "problem-solving", "leadership"],
+  funFact: "My wife and I are 'travel influencers' and manage multiple social media platforms @passport4two and www.passport4two.com"
