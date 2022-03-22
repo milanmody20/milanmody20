@@ -44,7 +44,8 @@ let milanMody = {
   :📍: A web app for travelers! Allows users to drop virtual "pins" to their prior travel destinations. Ruby on Rails.
 
 <br/>
-Find Out More About Me:
+
+## Find Out More About Me:
 
 <a href="https://www.linkedin.com/in/milanmody">
   <img align="left" alt="Milan Mody | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
